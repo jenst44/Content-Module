@@ -1,0 +1,11 @@
+body {
+	background-color: brown;
+	color: pink;
+}
+
+img {
+	width:400px;
+	height:250px;
+	margin: 20px;
+	border:1px solid pink;
+}
